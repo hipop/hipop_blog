@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<title>公司新闻_济南睿研信息技术有限公司</title>
+<meta name="description" content="济南睿研信息技术有限公司新闻">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta charset="utf-8">
+<link rel="stylesheet" href="/templets/ruiyan/css/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="/templets/ruiyan/css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="/templets/ruiyan/css/style.css" type="text/css" media="all">
+<script type="text/javascript" src="/templets/ruiyan/js/maxheight.js"></script>
+<script type="text/javascript" src="/templets/ruiyan/js/jquery-1.4.2.min.js" ></script>
+<script type="text/javascript" src="/templets/ruiyan/js/script.js"></script>
+<!--[if lt IE 7]>
+	<link rel="stylesheet" href="/templets/ruiyan/css/ie6.css" type="text/css" media="screen">
+	<script type="text/javascript" src="/templets/ruiyan/js/ie_png.js"></script>
+	<script type="text/javascript">
+		ie_png.fix('.png');
+	</script>
+<![endif]-->
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="/templets/ruiyan/js/html5.js"></script>
+<![endif]-->
+</head>
+<body id="page3">
+<div class="tail-bottom">
+	<div id="main">
+	
+	<!-- header -->
+		<header>
+			<div class="logo"><a href="/">首页</a></div>
+			<div class="nav-box">
+				<nav>
+					
+					<ul >
+					
+						<li class="not-current"><a href="/">首页</a></li>
+						<li class="current"><a href="/news/index.html">公司新闻</a></li>
+						<li class=""><a href="/products/index.html">产品与服务</a></li>
+						<li class=""><a href="/about/aboutus.html">关于我们</a></li>
+						<li class=""><a href="/about/contacts.html">联系我们</a></li>
+						
+					</ul>
+				</nav>
+			</div>
+			
+			
+		</header>
+		<div class="wrapper indent">
+<!-- content -->
+			<section id="content">
+				<div class="inside">
+					<h2><span>公司新闻</span></h2>
+					<ul class="articles">
+					<li>
+							<span class="pubdate fright">2012-01-29</span>
+							<a href="/news/news_11.html"><b>集团第二届兼职讲师选拔活动顺利结束</b></a><br>
+							12月11日，集团第二届兼职讲师选拔活动在集团总部顺利结束。本次活动共有来自各分公司和济南总部一线的十几名员工同台竞技。百度渠道经理才华、百度区域经理张望、开创集团人事</li><li>
+							<span class="pubdate fright">2012-01-29</span>
+							<a href="/news/news_10.html"><b>活力点亮青春——滨州分公司羽毛球比赛活动</b></a><br>
+							青春充满活力，活力激情释放。为活跃公司氛围，展现滨州分公司的活力和冲劲，分公司全体同仁参加了12月12日的羽毛球比赛。大家在赛场上的拼搏进取，不到最后不放弃的精神，展现</li><li>
+							<span class="pubdate fright">2012-01-29</span>
+							<a href="/news/news_9.html"><b>辉煌绽放 荣耀共享——2010百度客户答谢会德州站</b></a><br>
+							2010年12月16日，辉煌绽放 荣耀共享——2010百度客户答谢会在德州美丽华大酒店三楼新闻厅隆重召开，德州几十家企业的优秀企业家在此欢聚一堂。</li><li>
+							<span class="pubdate fright">2012-01-29</span>
+							<a href="/news/news_8.html"><b>德州分公司组织兼职讲师进行实战演练</b></a><br>
+							第二届兼职讲师选拔活动在集团总部结束之后，其第二阶段——兼职讲师实战模拟演练随之展开。本着让兼职讲师在实战中快速成长的目的，德州分公司组织兼职讲师李连圣为新员工进</li><li>
+							<span class="pubdate fright">2012-01-29</span>
+							<a href="/news/news_7.html"><b>兼职讲师风采展示</b></a><br>
+							第二届兼职讲师选拔活动之后，又通过实战阶段的锻炼提升，最终获得兼职讲师资格的同事近日陆续收到了集团下发的兼职讲师资格证书。
+
+    新一批兼职讲师将在接下来的时间开始承</li>
+						
+					</ul>
+					<div class="dede_pages">
+						<ul class="pagelist">
+						<li>首页</li>
+<li class="thisclass">1</li>
+<li><a href='list_3_2.html'>2</a></li>
+<li><a href='list_3_3.html'>3</a></li>
+<li><a href='list_3_2.html'>下一页</a></li>
+<li><a href='list_3_3.html'>末页</a></li>
+<li><select name='sldd' style='width:36px' onchange='location.href=this.options[this.selectedIndex].value;'>
+<option value='list_3_1.html' selected>1</option>
+<option value='list_3_2.html'>2</option>
+<option value='list_3_3.html'>3</option>
+</select></li>
+<li><span class="pageinfo">共 <strong>3</strong>页<strong>11</strong>条</span></li>
+
+						</ul>
+					</div>
+				</div>
+			</section>
+<!-- aside -->
+			<aside>
+				<div class="inside">
+					
+					<h2><span>推荐新闻</span></h2>
+					<ul class="services">
+					<li><a href="/news/news_7.html">兼职讲师风采展示</a></li><li><a href="/news/news_8.html">德州分公司组织兼职讲师</a></li><li><a href="/news/news_9.html">辉煌绽放 荣耀共享——</a></li><li><a href="/news/news_10.html">活力点亮青春——滨州分</a></li><li><a href="/news/news_11.html">集团第二届兼职讲师选拔</a></li>
+						
+					</ul>
+					<!--<div class="wrapper"><a href="#" class="link1"><span><span>More Services</span></span></a></div>-->
+					<div class="sidead">
+<a href="#"/><img src="/images/ruiyan/sidead1.jpg" /></a>
+</div>
+					<div class="sidead">
+<a href="#"/><img src="/images/ruiyan/sidead2.jpg" /></a>
+</div>
+					<div class="sidead">
+<a href="#"/><img src="/images/ruiyan/sidead3.jpg" /></a>
+</div>
+					
+				</div>
+			</aside>
+		</div>
+<!-- footer -->
+		<footer>
+	<div class="inside">
+		<a href="/about/aboutus.html" class="new_window">关于我们</a> <span class="litepipe">|</span>
+		
+		<a href="/about/contacts.html">联系我们</a><span class="litepipe">|</span>
+		<a href="/about/jobs.html">人才招聘</a>
+		<br/>
+		<span class="copyright">Copyright &copy; 2002-2012 RUIYAN. 济南睿研信息技术有限公司 版权所有</span>
+	</div>
+</footer>
+	</div>
+</div>
+</body>
+</html>
